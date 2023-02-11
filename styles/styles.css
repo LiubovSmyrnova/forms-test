@@ -33,3 +33,33 @@
     top: 210px;
     left: 800px;
 }
+.sendmessage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 202px;
+    height: 48px;
+    background: #428088;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
+    border-radius: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border: none;
+    color: #FFFFFF;
+
+}
+.sendmessage:hover {
+   background-color: #6fbec9;
+}
+.buttoncenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
